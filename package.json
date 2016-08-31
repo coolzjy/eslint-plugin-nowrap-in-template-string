@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-nowrap-in-template-string",
+  "version": "0.0.1",
+  "description": "No wrap in template string rule for Eslint",
+  "main": "index.js",
+  "author": "Zhang Visper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolzjy/eslint-plugin-nowrap-in-template-string.git"
+  },
+  "homepage": "https://github.com/coolzjy/eslint-plugin-nowrap-in-template-string",
+  "bugs": {
+    "url": "https://github.com/coolzjy/eslint-plugin-nowrap-in-template-string/issues"
+  },
+  "keywords": [
+    "eslint-plugin",
+    "eslintplugin",
+    "eslint",
+    "nowrap",
+    "template"
+  ],
+  "license": "MIT"
+}
