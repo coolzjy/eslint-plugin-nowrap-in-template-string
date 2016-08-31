@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nowrap-in-template-string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "No wrap in template string rule for Eslint",
   "main": "index.js",
   "author": "Zhang Visper",
